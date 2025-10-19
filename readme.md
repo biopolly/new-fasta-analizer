@@ -9,14 +9,10 @@
 - статистика по набору последовательностей
 - обработка больших файлов с использованием генераторов
 
-## установка
-
-```bash
-git clone https://github.com/yourusername/fasta-analyzer.git
-cd fasta-analyzer
 
 
-классы
+
+## классы
 
 class Seq
 представляет биологическую последовательность.
@@ -51,3 +47,10 @@ read_records(file_path): генератор, возвращающий объек
 analyze_fasta(file_path): комплексный анализ FASTA файла
 
 возвращаемые данные analyze_fasta()
+
+
+## установка
+
+```bash
+git clone https://github.com/yourusername/fasta-analyzer.git
+cd fasta-analyzer
