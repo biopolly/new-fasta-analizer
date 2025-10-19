@@ -44,7 +44,7 @@ header (str): заголовок FASTA записи
 
 - analyze_fasta(file_path): комплексный анализ FASTA файла
 
-##Вывод
+## Вывод
 
 Метод analyze_fasta() возвращает словарь:
 
